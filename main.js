@@ -455,11 +455,11 @@ document.getElementById("btnKhoangcach").onclick = function () {
             break;
     
         case BT:
-            var inKqRaLa = "Nguyễn Văn A";
+            var inKqRaLa = "Nguyễn Văn B";
             break;
 
         case CT:
-            var inKqRaLa = "Nguyễn Văn A";
+            var inKqRaLa = "Nguyễn Văn C";
             break;
 
         default:
