@@ -38,7 +38,7 @@ document.getElementById("btnNgaymai__").onclick = function(){
             }
             else
             {
-                so__Ngay__now++;
+                so__Ngay__now = 1;
                 so__Thang__now++;
             }
         }
@@ -99,7 +99,7 @@ document.getElementById("btnNgaymai__").onclick = function(){
             }
             else
             {
-                so__Ngay__now++;
+                so__Ngay__now=1;
                 so__Thang__now++;
             }
         }
